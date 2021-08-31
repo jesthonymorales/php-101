@@ -1,4 +1,3 @@
 <?php
-
-	echo "PHP-102 Exam";
+	echo "hello php-102";
 ?>
